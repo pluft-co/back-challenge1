@@ -1,4 +1,4 @@
-# back-challenge1
+# Desafio backend - Pluft
 Desafio simples de backend para candidatos
 
   Atendemos clientes que fazem agendamento de serviços, por exemplo:
